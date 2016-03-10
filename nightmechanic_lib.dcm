@@ -1,7 +1,92 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AAA_Bat_PC_con
+D AAA battery PCB snap in contact
+$ENDCMP
+#
+$CMP Amphenol_USB_F_UE27AC5410H
+D Amphenol USB Female connector
+K USB
+F http://www.amphenolinfocom.eu/NavData/Catalogs/USB%20Brochure.pdf
+$ENDCMP
+#
+$CMP BAS3010B
+D Diode Schottky BAS3010B
+F http://www.infineon.com/dgdl/Infineon-BAS3010BSERIES-DS-v01_01-en.pdf?fileId=db3a304313e278750113e29a03a70005
+$ENDCMP
+#
+$CMP JST_B03B-XASK-1
+D JST B03B-XASK-1 XA 3 pin top entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP JST_B04B-XASK-1
+D JST B04B-XASK-1 XA 4 pin top entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP JST_B05B-XASK-1
+D JST B05B-XASK-1 XA 5 pin top entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP JST_B06B-XASK-1
+D JST B06B-XASK-1 XA 6 pin top entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP JST_B2PS_VH
+D JST 2 pin VH connector
+K JST VH
+F http://www.jst-mfg.com/product/pdf/eng/eVH.pdf
+$ENDCMP
+#
+$CMP JST_S03B-XASK-1
+D JST S03B-XASK-1 XA 3 pin side entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP JST_S04B-XASK-1
+D JST S04B-XASK-1 XA 4 pin side entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP JST_S05B-XASK-1
+D JST S05B-XASK-1 XA 5 pin side entry
+F http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf
+$ENDCMP
+#
+$CMP MCP1700-3002E/MB
+D Low Quiescent Current 3V LDO
+K LDO, regulator
+$ENDCMP
+#
+$CMP MCP73831-2ACI/OT
+D Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller
+K charger, battery
+$ENDCMP
+#
+$CMP Molex_105133-0011
+D Micro-USB B Receptacle, Vertical, Surface Mount, Lead-Free
+K Micro-USB, USB
+$ENDCMP
+#
+$CMP Q_NMOS_GSD
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP Si2312CDS
+D Si2312CDS  20V 40mOhm SOT-23 N-MOSFET 
+K nmos n-mos n-mosfet transistor
+F http://www.vishay.com/docs/65900/SI2312CD.pdf
+$ENDCMP
+#
 $CMP TRANSFORMER
 D Transformer
 $ENDCMP
 #
 #End Doc Library
+
+
+
