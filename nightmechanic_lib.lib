@@ -397,6 +397,20 @@ X SB 4 400 200 300 L 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Test_point_loop_1.32mm
+#
+DEF Test_point_loop_1.32mm TP 0 40 N N 1 F N
+F0 "TP" 150 300 60 H V C CNN
+F1 "Test_point_loop_1.32mm" 600 150 60 H V C CNN
+F2 "nightmechanic_pcb:Test_point_glass_1.32" 50 200 60 H I C CNN
+F3 "http://www.e-markinc.com/images/EmarkCatalog.pdf" 0 400 60 H I C CNN
+DRAW
+C 0 200 0 0 1 0 N
+C 0 250 50 0 1 0 N
+X 1 1 0 0 200 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # V_3V0
 #
 DEF V_3V0 PWR 0 40 N N 1 F P
@@ -450,4 +464,3 @@ ENDDRAW
 ENDDEF
 #
 #End Library
-

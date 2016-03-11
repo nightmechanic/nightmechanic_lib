@@ -86,7 +86,9 @@ $CMP TRANSFORMER
 D Transformer
 $ENDCMP
 #
+$CMP Test_point_loop_1.32mm
+D Test point, glass body loop top, 1.32mm hole
+F http://www.e-markinc.com/images/EmarkCatalog.pdf
+$ENDCMP
+#
 #End Doc Library
-
-
-
