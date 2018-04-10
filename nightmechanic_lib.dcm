@@ -62,10 +62,6 @@ K AAA battery bat
 F http://www.keyelco.com/product-pdf.cfm?p=1033
 $ENDCMP
 #
-$CMP LED A1_K2
-K LED
-$ENDCMP
-#
 $CMP LED_A1_K2
 K LED
 $ENDCMP
