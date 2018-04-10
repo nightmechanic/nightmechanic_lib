@@ -71,6 +71,10 @@ D Low Quiescent Current 3V LDO
 K LDO, regulator
 $ENDCMP
 #
+$CMP MCP39F521
+D I2C Power Monitor with Calculation and energy accumulation
+$ENDCMP
+#
 $CMP MCP73831-2ACI/OT
 D Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller
 K charger, battery
