@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3.3V_ISO
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP +5V_ISO
+D power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP AAA_Bat_PC_con
 D AAA battery PCB snap in contact
 $ENDCMP
@@ -13,6 +23,16 @@ $ENDCMP
 $CMP BAS3010B
 D Diode Schottky BAS3010B
 F http://www.infineon.com/dgdl/Infineon-BAS3010BSERIES-DS-v01_01-en.pdf?fileId=db3a304313e278750113e29a03a70005
+$ENDCMP
+#
+$CMP DMN3067LW
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP GND_ISO
+D GROUND power-flag symbol
+K Power Flag Symbol
 $ENDCMP
 #
 $CMP JST_B03B-XASK-1
@@ -89,6 +109,10 @@ $ENDCMP
 $CMP Molex_105133-0011
 D Micro-USB B Receptacle, Vertical, Surface Mount, Lead-Free
 K Micro-USB, USB
+$ENDCMP
+#
+$CMP OAR5R005
+F http://www.ttelectronics.com/sites/default/files/resistors-datasheets/OAR.pdf
 $ENDCMP
 #
 $CMP Q_NMOS_GSD
